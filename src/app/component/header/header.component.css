@@ -1,5 +1,6 @@
 header {
     display:flex;
+    font-family:'Times New Roman', Times, serif;
     justify-content:space-between;
     align-items:center;
     margin-bottom:20px;
